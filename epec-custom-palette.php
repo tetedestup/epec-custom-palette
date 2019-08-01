@@ -13,22 +13,22 @@ function myfunction_by_myself() {
     add_theme_support( 'editor-color-palette', array(
         array(
             'name' => __( 'Brand Color 1', 'epec-custom-palette' ),
-            'slug' => 'Brand Color 1',
+            'slug' => 'brand_color_1',
             'color' => '#6128A1',
         ),
         array(
             'name' => __( 'Brand Color 2', 'epec-custom-palette' ),
-            'slug' => 'Brand Color 2',
+            'slug' => 'brand_color_2',
             'color' => '#E94B59',
         ),
         array(
             'name' => __( 'Very Dark Gray', 'epec-custom-palette' ),
-            'slug' => 'Very Dark Gray',
+            'slug' => 'very_dark_gray',
             'color' => '#111111',
         ),
         array(
             'name' => __( 'White', 'epec-custom-palette' ),
-            'slug' => 'White',
+            'slug' => 'white',
             'color' => '#FFFFFF',
         ),
     ) );
